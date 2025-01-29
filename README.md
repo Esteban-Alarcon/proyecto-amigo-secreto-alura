@@ -1,2 +1,3 @@
-# proyecto-amigo-secreto-alura
-Proyecto Final amigo secreto ALURA
+<h1>Proyecto Amigo Secreto Alura</h1>
+<h2>Hecho por : Esteban Alarcón</h2>
+
