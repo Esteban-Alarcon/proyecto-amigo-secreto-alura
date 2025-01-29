@@ -9,4 +9,4 @@
 ```function sortearAmigo()```
 ```function obtenerAmigo(índiceAleatorio)```
 
-Además, se implementó un botón para <b>>reiniciar</b el juego tras presionarlo. Devolviéndolo a sus <em>condiciones iniciales</em>
+Además, se implementó un botón para <b>reiniciar</b> el juego tras presionarlo. Devolviéndolo a sus <em>condiciones iniciales</em>
