@@ -2,9 +2,8 @@
 <h2>Hecho por : Esteban Alarcón</h2>
 <p>El siguiente proyecto es un juego; en él se adicionan nombres a una lista para después, con un índice aleatorio, seleccionar un nombre al azar.</p>
 <p>Las principales funciones implementadas fueron:</p>
-<p>
-```function agregarAmigo()```
-  
+
+```function agregarAmigo()```  
 ```function limpiarCaja```
 ```function actualizarAmigos()```
 ```function sortearAmigo()```
